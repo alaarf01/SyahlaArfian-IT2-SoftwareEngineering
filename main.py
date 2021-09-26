@@ -1,7 +1,7 @@
 # Variabel
 
 a = 2 #integer / bilangan bulat
-hewan = "Gajah" # String
+hewan = "Kuda" # String
 #untuk yang dasarnya tidak ada yang namanya Char
 b = 'A'  # String
 c = True # Boolean
@@ -24,7 +24,7 @@ print("Nama hewannya adalah: " + hewan)
 print("Nama hewannya adalah: {}".format(hewan))
 print("Nama : {}, Tempat Tinggal : {}, Umur : {}".format("Ala", "Cianjur", "21"))
 
-Nama_Siswa = ["Lili", "Ala", "Gia", "Desy", "JShotaro"]
+Nama_Siswa = ["Lili", "Ala", "Gia", "Desy", "Shotaro"]
 
 print(Nama_Siswa[0])
 print(Nama_Siswa[1])
